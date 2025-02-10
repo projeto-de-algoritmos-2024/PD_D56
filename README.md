@@ -16,6 +16,7 @@ Este projeto consiste na resolução de problemas de Programação Dinâmica do 
 
 |Problema | Descrição | Dificuldade| Contribuidores
 | -- | -- | -- | -- |
+| [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/?envType=problem-list-v2&envId=dynamic-programming) | Dado um array de inteiros, retorne o número de subsequências especiais. Uma subsequência é especial se ela é vazia ou contém apenas números ímpares. | Hard | [Thiago Freitas](https://github.com/thiagorfreitas) |
 
 ## Screenshots
 
@@ -23,7 +24,3 @@ Este projeto consiste na resolução de problemas de Programação Dinâmica do 
 ## Instalação 
 **Linguagem**: Python<br>
 para a utlização dos códigos será necessário utilizar o comando 'pip install sortedcontainers' para baixar a biblioteca.
-
-
-
-
