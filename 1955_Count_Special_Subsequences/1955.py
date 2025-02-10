@@ -11,8 +11,8 @@ class Solution(object):
             if num == 0:
                 count_0 = (count_0 + 1) % mod
             elif num == 1:
-                count_1 = (count_1 + 1) % mod
+                count_1 = (count_1 + count_0) % mod
             elif num == 2:
-                count_2 = (count_2 + 1) % mod
+                count_2 = (count_2 + count_1) % mod
                 
         return count_2
