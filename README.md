@@ -26,8 +26,3 @@ Este projeto consiste na resolução de problemas de Programação Dinâmica do 
 ![1955  Count Number of Special Subsequences](./1955_Count_Special_Subsequences/1955_Accepted.png)
 
 Link para Submissão: [1955  Count Number of Special Subsequences - Submissions](https://leetcode.com/problems/count-number-of-special-subsequences/submissions/1538642792)
-
-
-## Instalação 
-**Linguagem**: Python<br>
-para a utlização dos códigos será necessário utilizar o comando 'pip install sortedcontainers' para baixar a biblioteca.
