@@ -1,22 +1,23 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
 
-        if not p:
-            return not s
+        m, n = len(s), len(p)
 
-        match_inicial = bool(s) and (p[0] == s[0] or p[0] == '.')
+        dp = [[False]*(n+1) for _ in range(m+1)]
 
-        if len(p) > 1 and p[1] == '*':
+        dp[m][n] = True
 
-            if self.isMatch(s, p[2:]):
-                return True
-            if match_inicial:
+        for i in range(m, -1, -1):
+            for j in range(n, -1, -1):
+                if i == m and j == n:
+                    continue  
+                match_inicial = (i < m) and (j < n) and (s[i] == p[j] or p[j] == '.')
                 
-                if self.isMatch(s[1:], p):
-                    return True
-            return False
-        else:
-            if match_inicial:
-                return self.isMatch(s[1:], p[1:])
-            else:
-                return False
+                if j+1 < n and p[j+1] == '*':
+                    if j+2 <= n:
+                        dp[i][j] = dp[i][j+2] or (match_inicial and (i+1 <= m and dp[i+1][j]))
+                else:
+                    if match_inicial and i+1 <= m and j+1 <= n:
+                        dp[i][j] = dp[i+1][j+1]
+        
+        return dp[0][0]
