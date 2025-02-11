@@ -33,3 +33,10 @@ Link para Submissão: [1955  Count Number of Special Subsequences - Submissions]
 ![10 Regular Expression Matching](./10_Regular_Expression_Matching/10_solved.png)
 
 Link para Submissão: [10 Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/submissions/1538727463)
+
+
+### Number of Ways to Separate Numbers
+
+![1977 Number of Ways to Separate Numbers](./1977_Number%20_Ways_Separate/1977_Accepted.png)
+
+Link para Submissão: [1977 Number of Ways to Separate Numbers - Submissions](https://leetcode.com/problems/number-of-ways-to-separate-numbers/submissions/1538728069)
