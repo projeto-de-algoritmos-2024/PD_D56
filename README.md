@@ -16,7 +16,8 @@ Este projeto consiste na resolução de problemas de Programação Dinâmica do 
 
 |Problema | Descrição | Dificuldade| Contribuidores
 | -- | -- | -- | -- |
-| [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/?envType=problem-list-v2&envId=dynamic-programming) | Dado um array de inteiros, retorne o número de subsequências especiais. Uma subsequência é especial se ela é vazia ou contém apenas números ímpares. | Hard | [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 1955 | [1955 Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/?envType=problem-list-v2&envId=dynamic-programming)  | Hard | [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 1977 | [1977 Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)  | Hard | [Thiago Freitas](https://github.com/thiagorfreitas)
 
 ## Screenshots
 
