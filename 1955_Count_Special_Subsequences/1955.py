@@ -9,10 +9,10 @@ class Solution(object):
         
         for num in nums:
             if num == 0:
-                count_0 = (count_0 + 1) % mod
+                count_0 = (count_0 * 2 + 1) % mod
             elif num == 1:
-                count_1 = (count_1 + count_0) % mod
+                count_1 = (count_1 * 2 + count_0) % mod
             elif num == 2:
-                count_2 = (count_2 + count_1) % mod
+                count_2 = (count_2 * 2 + count_1) % mod
                 
         return count_2
