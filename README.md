@@ -16,11 +16,13 @@ Este projeto consiste na resolução de problemas de Programação Dinâmica do 
 
 |Problema | Descrição | Dificuldade| Contribuidores
 | -- | -- | -- | -- |
-| [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/?envType=problem-list-v2&envId=dynamic-programming) | Dado um array de inteiros, retorne o número de subsequências especiais. Uma subsequência é especial se ela é vazia ou contém apenas números ímpares. | Hard | [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 1955 | [1955 Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/?envType=problem-list-v2&envId=dynamic-programming)  | Hard | [Thiago Freitas](https://github.com/thiagorfreitas) |
+| 1977 | [1977 Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)  | Hard | [Thiago Freitas](https://github.com/thiagorfreitas)
 
 ## Screenshots
 
+### Count Number of Special Subsequences
 
-## Instalação 
-**Linguagem**: Python<br>
-para a utlização dos códigos será necessário utilizar o comando 'pip install sortedcontainers' para baixar a biblioteca.
+![1955  Count Number of Special Subsequences](./1955_Count_Special_Subsequences/1955_Accepted.png)
+
+Link para Submissão: [1955  Count Number of Special Subsequences - Submissions](https://leetcode.com/problems/count-number-of-special-subsequences/submissions/1538642792)
