@@ -26,17 +26,18 @@ Este projeto consiste na resolução de problemas de Programação Dinâmica do 
 
 ![1955  Count Number of Special Subsequences](./1955_Count_Special_Subsequences/1955_Accepted.png)
 
-Link para Submissão: [1955  Count Number of Special Subsequences - Submissions](https://leetcode.com/problems/count-number-of-special-subsequences/submissions/1538642792)
+- Link para Submissão: [1955  Count Number of Special Subsequences - Submissions](https://leetcode.com/problems/count-number-of-special-subsequences/submissions/1538642792)
+- Vídeo de Explicação: [1955  Count Number of Special Subsequences - Explicação](https://youtu.be/gj49qAED8T0)
 
 ### Count Number of Special Subsequences
 
 ![10 Regular Expression Matching](./10_Regular_Expression_Matching/10_solved.png)
 
-Link para Submissão: [10 Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/submissions/1538727463)
+- Link para Submissão: [10 Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/submissions/1538727463)
 
 
 ### Number of Ways to Separate Numbers
 
 ![1977 Number of Ways to Separate Numbers](./1977_Number%20_Ways_Separate/1977_Accepted.png)
 
-Link para Submissão: [1977 Number of Ways to Separate Numbers - Submissions](https://leetcode.com/problems/number-of-ways-to-separate-numbers/submissions/1538728069)
+- Link para Submissão: [1977 Number of Ways to Separate Numbers - Submissions](https://leetcode.com/problems/number-of-ways-to-separate-numbers/submissions/1538642792)
